@@ -50,7 +50,7 @@ Main 클래스 안의 main메서드를 실행하면 됩니다.
 
 
 
-### class Main
+### Main 클래스
 - 다음 정보를 사용하여 Ebook 인스턴스를 생성
 - 제목 "The Great Gatsby", 저자 "F. Scott Fitzgerald", ISBN "1234567890", 파일 형식 "PDF" 이 출력 되어야함.
 ---
